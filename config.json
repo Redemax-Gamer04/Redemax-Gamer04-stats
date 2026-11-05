@@ -2,11 +2,7 @@
 {
   "output_path": "assets/github-stats.svg",
   "max_languages": 8,
-  "exclude_languages": [
-    "Perl",
-    "Shell",
-    "Makefile"
-  ],
+  "exclude_languages": ["Perl", "Shell", "Makefile"],
   "theme": {
     "background": "#1a1b27",
     "accent": "#7aa2f7",
