@@ -1,24 +1,29 @@
+
 {
   "output_path": "assets/github-stats.svg",
   "max_languages": 8,
-  "exclude_languages": [],
+  "exclude_languages": [
+    "Perl",
+    "Shell",
+    "Makefile"
+  ],
   "theme": {
-    "background": "#0d1117",
-    "accent": "#58a6ff",
-    "text": "#e6edf3",
-    "muted": "#8b949e",
-    "divider": "#21262d"
+    "background": "#1a1b27",
+    "accent": "#7aa2f7",
+    "text": "#c0caf5",
+    "muted": "#565f89",
+    "divider": "#292e42"
   },
   "labels": {
-    "stats_title": "GitHub Stats",
-    "languages_title": "Most Used Languages",
-    "stars": "Total Stars Earned",
-    "commits": "Total Commits",
-    "pull_requests": "Total PRs",
-    "issues": "Total Issues",
-    "contributions_year": "Contributed (this year)",
-    "total_contributions": "Total contributions",
-    "current_streak": "Current streak",
-    "longest_streak": "Longest streak"
+    "stats_title": "Statistiche GitHub 2026",
+    "languages_title": "Linguaggi più utilizzati",
+    "stars": "Stelle ricevute",
+    "commits": "Commit totali",
+    "pull_requests": "Pull Request",
+    "issues": "Issue aperte",
+    "contributions_year": "Contributi nel 2026",
+    "total_contributions": "Contributi totali",
+    "current_streak": "Streak attuale",
+    "longest_streak": "Streak record"
   }
 }
