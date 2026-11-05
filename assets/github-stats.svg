@@ -5,7 +5,7 @@
   viewBox="0 0 1000 340"
   role="img"
   aria-labelledby="title description"
-  data-fingerprint="d81431e8f7897ea3ebce7af843f3229849296389cc879d7ac013b7e12f93279f">
+  data-fingerprint="2f9a685f208989123f03bca731d047769bd4610f33bf1155d62cd67a161eed06">
 
   <title id="title">
     Redemax-Gamer04 GitHub statistics
@@ -37,7 +37,7 @@
         "Segoe UI",
         sans-serif;
 
-      fill: #58a6ff;
+      fill: #7aa2f7;
     }
 
     .stat-label,
@@ -49,7 +49,7 @@
         "Segoe UI",
         sans-serif;
 
-      fill: #e6edf3;
+      fill: #c0caf5;
     }
 
     .legend-label {
@@ -60,7 +60,7 @@
         "Segoe UI",
         sans-serif;
 
-      fill: #e6edf3;
+      fill: #c0caf5;
     }
 
     .legend-value {
@@ -71,7 +71,7 @@
         "Segoe UI",
         sans-serif;
 
-      fill: #e6edf3;
+      fill: #c0caf5;
     }
 
     .metric-number {
@@ -82,7 +82,7 @@
         "Segoe UI",
         sans-serif;
 
-      fill: #58a6ff;
+      fill: #7aa2f7;
     }
 
     .metric-label {
@@ -93,7 +93,7 @@
         "Segoe UI",
         sans-serif;
 
-      fill: #e6edf3;
+      fill: #c0caf5;
     }
 
     .updated {
@@ -104,7 +104,7 @@
         "Segoe UI",
         sans-serif;
 
-      fill: #8b949e;
+      fill: #565f89;
     }
   </style>
 
@@ -112,21 +112,21 @@
     width="1000"
     height="340"
     rx="16"
-    fill="#0d1117"
+    fill="#1a1b27"
   />
 
   <text
     x="35"
     y="56"
     class="section-title">
-    GitHub Stats
+    Statistiche GitHub 2026
   </text>
 
   <text
     x="535"
     y="56"
     class="section-title">
-    Most Used Languages
+    Linguaggi più utilizzati
   </text>
 
   <line
@@ -134,7 +134,7 @@
     y1="34"
     x2="500"
     y2="218"
-    stroke="#21262d"
+    stroke="#292e42"
     stroke-width="1"
   />
 
@@ -143,8 +143,8 @@
     <g
       transform="translate(34,71) scale(1.0)"
       fill="none"
-      stroke="#58a6ff"
-      color="#58a6ff"
+      stroke="#7aa2f7"
+      color="#7aa2f7"
       stroke-width="1.9"
       stroke-linecap="round"
       stroke-linejoin="round">
@@ -175,7 +175,7 @@
       x="72"
       y="92"
       class="stat-label">
-      Total Stars Earned:
+      Stelle ricevute:
     </text>
 
     <text
@@ -191,8 +191,8 @@
     <g
       transform="translate(34,99) scale(1.0)"
       fill="none"
-      stroke="#58a6ff"
-      color="#58a6ff"
+      stroke="#7aa2f7"
+      color="#7aa2f7"
       stroke-width="1.9"
       stroke-linecap="round"
       stroke-linejoin="round">
@@ -221,7 +221,7 @@
       x="72"
       y="120"
       class="stat-label">
-      Total Commits:
+      Commit totali:
     </text>
 
     <text
@@ -229,7 +229,7 @@
       y="120"
       text-anchor="end"
       class="stat-value">
-      18
+      19
     </text>
     
 
@@ -237,8 +237,8 @@
     <g
       transform="translate(34,127) scale(1.0)"
       fill="none"
-      stroke="#58a6ff"
-      color="#58a6ff"
+      stroke="#7aa2f7"
+      color="#7aa2f7"
       stroke-width="1.9"
       stroke-linecap="round"
       stroke-linejoin="round">
@@ -274,7 +274,7 @@
       x="72"
       y="148"
       class="stat-label">
-      Total PRs:
+      Pull Request:
     </text>
 
     <text
@@ -290,8 +290,8 @@
     <g
       transform="translate(34,155) scale(1.0)"
       fill="none"
-      stroke="#58a6ff"
-      color="#58a6ff"
+      stroke="#7aa2f7"
+      color="#7aa2f7"
       stroke-width="1.9"
       stroke-linecap="round"
       stroke-linejoin="round">
@@ -322,7 +322,7 @@
       x="72"
       y="176"
       class="stat-label">
-      Total Issues:
+      Issue aperte:
     </text>
 
     <text
@@ -338,8 +338,8 @@
     <g
       transform="translate(34,183) scale(1.0)"
       fill="none"
-      stroke="#58a6ff"
-      color="#58a6ff"
+      stroke="#7aa2f7"
+      color="#7aa2f7"
       stroke-width="1.9"
       stroke-linecap="round"
       stroke-linejoin="round">
@@ -374,7 +374,7 @@
       x="72"
       y="204"
       class="stat-label">
-      Contributed (this year):
+      Contributi nel 2026:
     </text>
 
     <text
@@ -382,7 +382,7 @@
       y="204"
       text-anchor="end"
       class="stat-value">
-      15
+      16
     </text>
     
 
@@ -392,7 +392,7 @@
     width="405"
     height="7"
     rx="3.5"
-    fill="#21262d"
+    fill="#292e42"
   />
 
   <g clip-path="url(#language-bar-clip)">
@@ -468,7 +468,7 @@
     y1="232"
     x2="333"
     y2="315"
-    stroke="#21262d"
+    stroke="#292e42"
     stroke-width="1"
   />
 
@@ -477,7 +477,7 @@
     y1="232"
     x2="667"
     y2="315"
-    stroke="#21262d"
+    stroke="#292e42"
     stroke-width="1"
   />
 
@@ -485,8 +485,8 @@
     <g
       transform="translate(149,226) scale(1.5)"
       fill="none"
-      stroke="#58a6ff"
-      color="#58a6ff"
+      stroke="#7aa2f7"
+      color="#7aa2f7"
       stroke-width="1.9"
       stroke-linecap="round"
       stroke-linejoin="round">
@@ -522,7 +522,7 @@
     y="278"
     text-anchor="middle"
     class="metric-number">
-    22
+    23
   </text>
 
   <text
@@ -530,15 +530,15 @@
     y="307"
     text-anchor="middle"
     class="metric-label">
-    Total contributions
+    Contributi totali
   </text>
 
   
     <g
       transform="translate(482,226) scale(1.5)"
       fill="none"
-      stroke="#58a6ff"
-      color="#58a6ff"
+      stroke="#7aa2f7"
+      color="#7aa2f7"
       stroke-width="1.9"
       stroke-linecap="round"
       stroke-linejoin="round">
@@ -577,15 +577,15 @@
     y="307"
     text-anchor="middle"
     class="metric-label">
-    Current streak
+    Streak attuale
   </text>
 
   
     <g
       transform="translate(816,226) scale(1.5)"
       fill="none"
-      stroke="#58a6ff"
-      color="#58a6ff"
+      stroke="#7aa2f7"
+      color="#7aa2f7"
       stroke-width="1.9"
       stroke-linecap="round"
       stroke-linejoin="round">
@@ -641,7 +641,7 @@
     y="307"
     text-anchor="middle"
     class="metric-label">
-    Longest streak
+    Streak record
   </text>
 
   <text
@@ -649,6 +649,6 @@
     y="327"
     text-anchor="end"
     class="updated">
-    Updated 2026-11-05 12:37 UTC
+    Updated 2026-11-05 12:41 UTC
   </text>
 </svg>
