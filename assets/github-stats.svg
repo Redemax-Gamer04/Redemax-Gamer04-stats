@@ -5,10 +5,10 @@
   viewBox="0 0 1000 340"
   role="img"
   aria-labelledby="title description"
-  data-fingerprint="4e2b9c8e85879a4e637f584028e556bb9762eda9c17bf8f3712286358fca8e3d">
+  data-fingerprint="d81431e8f7897ea3ebce7af843f3229849296389cc879d7ac013b7e12f93279f">
 
   <title id="title">
-    antonisloukis GitHub statistics
+    Redemax-Gamer04 GitHub statistics
   </title>
 
   <desc id="description">
@@ -183,7 +183,7 @@
       y="92"
       text-anchor="end"
       class="stat-value">
-      61
+      0
     </text>
     
 
@@ -229,7 +229,7 @@
       y="120"
       text-anchor="end"
       class="stat-value">
-      502
+      18
     </text>
     
 
@@ -282,7 +282,7 @@
       y="148"
       text-anchor="end"
       class="stat-value">
-      46
+      0
     </text>
     
 
@@ -330,7 +330,7 @@
       y="176"
       text-anchor="end"
       class="stat-value">
-      8
+      0
     </text>
     
 
@@ -382,7 +382,7 @@
       y="204"
       text-anchor="end"
       class="stat-value">
-      583
+      15
     </text>
     
 
@@ -400,45 +400,18 @@
             <rect
               x="535.00"
               y="98"
-              width="388.65"
+              width="396.13"
               height="7"
               fill="#3572A5"
             />
             
 
             <rect
-              x="923.65"
+              x="931.13"
               y="98"
-              width="14.08"
+              width="8.87"
               height="7"
-              fill="#e34c26"
-            />
-            
-
-            <rect
-              x="937.73"
-              y="98"
-              width="2.05"
-              height="7"
-              fill="#663399"
-            />
-            
-
-            <rect
-              x="939.78"
-              y="98"
-              width="1.50"
-              height="7"
-              fill="#384d54"
-            />
-            
-
-            <rect
-              x="939.91"
-              y="98"
-              width="1.50"
-              height="7"
-              fill="#89e051"
+              fill="#355570"
             />
             
   </g>
@@ -463,7 +436,7 @@
               y="132"
               text-anchor="end"
               class="legend-value">
-              96.0%
+              97.8%
             </text>
             
 
@@ -471,14 +444,14 @@
               cx="740"
               cy="127"
               r="4"
-              fill="#e34c26"
+              fill="#355570"
             />
 
             <text
               x="752"
               y="132"
               class="legend-label">
-              HTML
+              GDScript
             </text>
 
             <text
@@ -486,76 +459,7 @@
               y="132"
               text-anchor="end"
               class="legend-value">
-              3.5%
-            </text>
-            
-
-            <circle
-              cx="540"
-              cy="153"
-              r="4"
-              fill="#663399"
-            />
-
-            <text
-              x="552"
-              y="158"
-              class="legend-label">
-              CSS
-            </text>
-
-            <text
-              x="710"
-              y="158"
-              text-anchor="end"
-              class="legend-value">
-              0.5%
-            </text>
-            
-
-            <circle
-              cx="740"
-              cy="153"
-              r="4"
-              fill="#384d54"
-            />
-
-            <text
-              x="752"
-              y="158"
-              class="legend-label">
-              Dockerfile
-            </text>
-
-            <text
-              x="910"
-              y="158"
-              text-anchor="end"
-              class="legend-value">
-              0.0%
-            </text>
-            
-
-            <circle
-              cx="540"
-              cy="179"
-              r="4"
-              fill="#89e051"
-            />
-
-            <text
-              x="552"
-              y="184"
-              class="legend-label">
-              Shell
-            </text>
-
-            <text
-              x="710"
-              y="184"
-              text-anchor="end"
-              class="legend-value">
-              0.0%
+              2.2%
             </text>
             
 
@@ -618,7 +522,7 @@
     y="278"
     text-anchor="middle"
     class="metric-number">
-    583
+    22
   </text>
 
   <text
@@ -665,7 +569,7 @@
     y="278"
     text-anchor="middle"
     class="metric-number">
-    0
+    1
   </text>
 
   <text
@@ -729,7 +633,7 @@
     y="278"
     text-anchor="middle"
     class="metric-number">
-    11
+    2
   </text>
 
   <text
@@ -745,6 +649,6 @@
     y="327"
     text-anchor="end"
     class="updated">
-    Updated 2026-10-22 11:50 UTC
+    Updated 2026-11-05 12:37 UTC
   </text>
 </svg>
